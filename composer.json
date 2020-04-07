@@ -9,11 +9,5 @@
     },
     "autoload": {
         "files": ["autoload.php"]
-    },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/outlandishideas/wp-scb-framework"
-        }
-    ]
+    }
 }
