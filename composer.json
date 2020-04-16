@@ -4,8 +4,9 @@
     "homepage": "https://github.com/outlandishideas/wp-lib-posts-to-posts",
     "license": "GPL-2.0+",
     "minimum-stability": "dev",
+    "version": "1.0",
     "require": {
-        "outlandish/scb-framework": "dev-master"
+        "outlandish/scb-framework": "1.0"
     },
     "autoload": {
         "files": ["autoload.php"]
